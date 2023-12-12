@@ -1,0 +1,7 @@
+test_encrypt (__main__.TestExercice.test_encrypt) ... FAIL
+test_get_first_part_of_name (__main__.TestExercice.test_get_first_part_of_name) ... FAIL
+test_get_random_sentence (__main__.TestExercice.test_get_random_sentence) ... ok
+
+======================================================================
+FAIL: test_encrypt (__main__.TestExercice.test_encrypt)
+----------------------------------------------------------------------
